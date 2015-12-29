@@ -1,9 +1,0 @@
-{
-    "name": "semver",
-    "description": "The semantic version parser used by npm.",
-    "repos": "https://github.com/npm/node-semver.git",
-    "main": "semver.js",
-    "tag": "master",
-    "reposType": "npm",
-    "version": "5.1.0"
-}
